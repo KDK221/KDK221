@@ -3,8 +3,10 @@
 [![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qu0112@hanyang.ac.kr)
 
 
-👋 반갑습니다!
 
+👋 반갑습니다!
+💻 아직 배울게 많은 박사과정생 입니다.
+👨 좋은 기회 나눠보아요
 
 
 

@@ -4,11 +4,11 @@
 
 
 
-👋 반갑습니다!
+<span style="font-size: 1.5em;">•</span> 👋 반갑습니다!
 
-💻 아직 배울게 많은 박사과정생 입니다.
+<span style="font-size: 1.5em;">•</span> 💻 아직 배울게 많은 박사과정생 입니다.
 
-👨 좋은 기회 나눠보아요
+<span style="font-size: 1.5em;">•</span> 👨 좋은 기회 나눠보아요
 
 
 

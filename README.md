@@ -1,5 +1,7 @@
 ## 한국에서 UCNP를 연구하는 사람들을 위한 아카이브
 [![js](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=xp2fyS4AAAAJ&hl=ko)
+[![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qu0112@hanyang.ac.kr)
+
 
 반가워요 👋
 

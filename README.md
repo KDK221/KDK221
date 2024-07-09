@@ -3,7 +3,7 @@
 [![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qu0112@hanyang.ac.kr)
 
 
-반가워요 👋
+👋 반갑습니다!
 
 
 

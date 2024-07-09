@@ -1,5 +1,6 @@
 ## 반가워요 👋
-![js](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+[![js](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=xp2fyS4AAAAJ&hl=ko)
+
 
 
 한국에서 UCNP를 연구하는 사람들을 위한 아카이브

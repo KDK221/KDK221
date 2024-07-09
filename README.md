@@ -6,9 +6,12 @@
 
 <span style="font-size: 1.5em;">•</span> 👨 좋은 기회 나눠보아요
 
-[![js](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=xp2fyS4AAAAJ&hl=ko)
-[![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qu0112@hanyang.ac.kr)
-
+<a href="https://scholar.google.co.kr/citations?user=xp2fyS4AAAAJ&hl=ko">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" style="width: 150px;">
+</a>
+<a href="mailto:qu0112@hanyang.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px;">
+</a>
 
 <!--
 **KDK221/KDK221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
